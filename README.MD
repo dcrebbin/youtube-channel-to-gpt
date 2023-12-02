@@ -64,7 +64,7 @@ Here is where CY GPT comes into play, using the information acquired from the ch
 
 5. In the Configure tab within the "Knowledge" section, upload your retrieved transcript
 
-6. Up the instruction with a
+6. Update the **Instructions** section with a custom prompt
 
 Example Prompt:
 
